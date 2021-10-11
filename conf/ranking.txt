@@ -1,0 +1,10 @@
+lollo;60
+io;55
+a;55
+neno;35
+lollo;30
+birba;25
+grotta;20
+lol;20
+lollo;20
+null
